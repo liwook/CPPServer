@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Channel",
+    "\\Epoll",
+    "\\Epoll\\Epoll.h",
+    "\\InetAddr",
+    "\\Socket",
+    "\\util"
+  ],
+  "SelectedNode": "\\main.cpp",
+  "PreviewInSolutionExplorer": false
+}

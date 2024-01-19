@@ -24,5 +24,8 @@
 [18.添加异步日志——2.实现异步](https://blog.csdn.net/m0_57408211/article/details/127937029)  
 [19.添加异步日志——3.继续完善](https://blog.csdn.net/m0_57408211/article/details/127942786?spm=1001.2014.3001.5502)  
 [20.添加HTTP模块](https://blog.csdn.net/m0_57408211/article/details/128385213)  
-[21.添加websocket模块](https://blog.csdn.net/m0_57408211/article/details/130743106?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22130743106%22%2C%22source%22%3A%22m0_57408211%22%7D)   
+[21.添加websocket模块](https://blog.csdn.net/m0_57408211/article/details/130743106?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22130743106%22%2C%22source%22%3A%22m0_57408211%22%7D)  
+
+
+![主从Reactor模型](https://cn.bing.com/images/search?view=detailV2&ccid=fk2gFZuj&id=20ABDE6BA650846BE6E83217BD89401706B60108&thid=OIP.fk2gFZuj6DlBj_o1QstSCAHaEe&mediaurl=https%3a%2f%2fgao-xiao-long.github.io%2fimg%2fin-post%2fmulti_reactor.png&exph=990&expw=1640&q=%e4%b8%bb%e4%bb%8ereactor%e6%a8%a1%e5%9e%8b%e5%9b%be%e7%89%87&simid=608017011538071276&FORM=IRPRST&ck=05C4F1165EF7506A50C92E9CE2CC4C4E&selectedIndex=11&itb=0&ajaxhist=0&ajaxserp=0)
 

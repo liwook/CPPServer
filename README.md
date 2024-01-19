@@ -27,5 +27,6 @@
 [21.添加websocket模块](https://blog.csdn.net/m0_57408211/article/details/130743106?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22130743106%22%2C%22source%22%3A%22m0_57408211%22%7D)  
 
 
+主从 Reactor 模式中，分为了 主Reactor 和 从Reactor，分别处理 **新建立的连接、IO读写事件/事件分发**。
 ![主从Reactor模型](https://gao-xiao-long.github.io/img/in-post/multi_reactor.png)  
 

@@ -4,4 +4,5 @@
 [实现linux服务器开发思路](https://blog.csdn.net/m0_57408211/article/details/127062135)  
 
 迭代的版本及讲解  
-[1.从简单的socket编程开始](https://blog.csdn.net/m0_57408211/article/details/127062399?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22127062399%22%2C%22source%22%3A%22m0_57408211%22%7D)
+[1.从简单的socket编程开始](https://blog.csdn.net/m0_57408211/article/details/127062399?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22127062399%22%2C%22source%22%3A%22m0_57408211%22%7D)  
+[2.多线程登场，服务于多客户端](https://blog.csdn.net/m0_57408211/article/details/127098028?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22127098028%22%2C%22source%22%3A%22m0_57408211%22%7D)
